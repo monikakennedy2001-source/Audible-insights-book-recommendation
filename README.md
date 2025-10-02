@@ -36,7 +36,6 @@ Readers often struggle to find books that match their interests. This project ai
 - `Listening Time`, `Ranks`, `Genre`
 - Dataset 2 adds advanced features like additional ratings or metadata.
 
-> Note: Large datasets can be added via `.gitignore` or hosted on AWS S3 to avoid GitHub size limits.
 
 ---
 
