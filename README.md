@@ -72,7 +72,5 @@ Readers often struggle to find books that match their interests. This project ai
 - Multiple recommendation models developed and evaluated.
 - Functional Streamlit application deployed on AWS.
 
----
 
-## Project Structure
 
